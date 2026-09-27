@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: CV (Resume)
 excerpt: 'Curriculum Vitae or Resume for Nelson Kelem. A Ruby and Fullstack developer based in UK.'
 permalink: /about/
 ---
@@ -9,8 +9,7 @@ permalink: /about/
 <p>
   <span class="cv-names">Nelson Kelem (TheCrab)</span> <br>
   <span class="cv-title">Software Developer</span> <br>
-  <span class="cv-location">South East London, UK</span> <br>
-  <small class="cv-hireable"><a href="mailto:nelson@safarista.com">Hire me, am available</a></small>
+  <span class="cv-location">Lincolnshire, UK</span>
 </p>
 
 I am based in Purley, South East London. I mostly work online so I can live where I love.
@@ -33,12 +32,12 @@ I'm a full stack web developer, with a focus on backend systems. My key skills i
 
 - HTML, CSS, Adobe Illustrator/Photoshop **(2007-present)**
 - Ruby and Ruby-on-Rails/Datamapper **(2009-present)**
-- Vanilla Javascript, JQuery **(2009-present)** and AngularJS **(2013-present)**
+- Vanilla Javascript, React
 - Nodejs and Express framework **(2013-present)**
 - Objective-C, RubyMotion **(2014-present)**
 - TDD/BDD I honestly can not remember when I started testing, its one of those things.
 
-Languages:- **Ruby** is my main go to (OO) language, **Nodejs** for real-time API's, **Elixir** is my current interest for functional language.
+Languages:- **Ruby** is my main go to (OO) language, **Nodejs** for real-time API's, Swift, **Elixir** is my current interest for functional language.
 
 I'm an ardent advocate for Open Source dev and a contributor, author of among others:
 
@@ -49,24 +48,22 @@ I've also contributed to: [Spree Commerce](http://spreecommerce.com) and [DataMa
 
 #### Tools
 - **Backend development**
-  + **Languages:** Ruby, MacRuby, Nodejs
+  + **Languages:** Ruby, Rust, Nodejs
   + **Languages with intermediate proficiency:** Elixir, Go
-  + **Frameworks:** Rails, Hanami, Roda, Sinatra, Sails, Express
+  + **Frameworks:** Rails, Hanami, Sinatra, Express
   + **Frameworks with intermediate proficiency:** Phoenix
 - **Frontend development**
-  + **Web** HTML5, CSS3, Javascript, Dart, Objective-C
-  + **Web frameworks** BackboneJS, AngularJS, UIKIT CSS, Bootstrap CSS,
-  + **Mobile frameworks:** RubyMotion, Xcode, Ionic
-- **Testing suits:** TestUnit, RSpec + Capybara
+  + **Web** HTML5, CSS3, Javascript
+  + **Web frameworks** ReactJS
+  + **Mobile frameworks:** Android Studio, Xcode, VS Code
 
    I prefer using RSpec with Capybara for frontend integration testing in place of Cucumber.
-- **Prototyping:** Photoshop, Illustrator, Bootstrap and [UIKIT CSS](http://getuikit.com)
 - **Preprocessors** Javascript (CoffeeScript and TypeScript), CSS (Sass, Grunt, Gulp)
 - **Databases:** Postgres, SQLite, MongoDB, RethinkDB
 - **Architecture and UML:** OS X (macOS), Linux (Ubuntu) and Git
 
 #### Tech community work
-I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the first ever **hackday** in Lincoln, besides running the group for almost 4 years. I attend a number of hackathons mainly in the UK.
+I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the first ever **hackday** in Lincoln, besides running the group for almost 5 years. I attend a number of hackathons mainly in the UK.
 
 #### Work experience
 > My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems. For the past 5 years I have worked at a digital agency **(Safarista Design)**, where as a senior developer I focused on Ruby and Rails development. Below are some apps I have worked on.
@@ -98,11 +95,11 @@ I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the fi
 I am in the process of writing the **Android** equivalent of some of the above apps.
 
 #### Education
-Lincoln University &mdash; BA Architecture, *2007-2009*
+Lincoln University &mdash; BA Architecture, *2007-2010*
 
 #### Strengths and goals
-I can work as software architect or developer. I can also do on-site Ruby on Rails, Hanami web frameworks and frontend web development.
+I can work as software architect or developer. I can also do on-site Ruby on Rails, Hanami web frameworks and frontend ReactJS web development.
 
 My goal is to help in design and development of better backend and UI strategies and simplify solution architecture by using the best architecture solutions for the task and business strategy.
 
-Please get [in touch](mailto:nelson@ilinkoln.org)
+Please get in touch.
